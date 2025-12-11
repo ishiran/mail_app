@@ -1,0 +1,13 @@
+{
+  // 这是你的 Worker/应用名称
+  "name": "mailapp", 
+
+  // 兼容性日期，使用今天或未来的日期
+  "compatibility_date": "2025-12-11", 
+
+  // 指定静态文件（Assets）的目录
+  "assets": {
+    // Vite 或 React 通常的编译输出目录是 dist
+    "directory": "./dist" 
+  }
+}
